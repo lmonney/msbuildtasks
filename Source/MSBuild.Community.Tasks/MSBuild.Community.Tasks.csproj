@@ -184,7 +184,9 @@
     <Compile Include="SqlServer\SqlPubWiz.cs" />
     <Compile Include="Subversion\SvnCopy.cs" />
     <Compile Include="Subversion\Info.cs" />
+    <Compile Include="Subversion\SvnLock.cs" />
     <Compile Include="Subversion\SvnStatus.cs" />
+    <Compile Include="Subversion\SvnUnlock.cs" />
     <Compile Include="SymbolServer\SymStore.cs" />
     <Compile Include="Tfs\InfoCommandResponse.cs" />
     <Compile Include="Tfs\TfsClient.cs" />
